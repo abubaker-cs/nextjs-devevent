@@ -1,8 +1,9 @@
 const Page = () => {
     return (
-        <div>
-          <h1>Hello World, to the Next.js 16!!</h1>
-        </div>
+        <section>
+          <h1 className="text-center">The Hub for Every Dev <br /> Even You Can't Miss</h1>
+          <p className="text-center mt-5">Hackathons, Meetups, and Conferences, All in One Place.</p>
+        </section>
     )
 }
 export default Page
